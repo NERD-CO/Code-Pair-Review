@@ -1,0 +1,11 @@
+Review Notes
+
+Date: 8/24/2022
+Code: findspike.m
+Review partner: Marielle
+Notes: 
+1. input arguments unclear - discussed adding one specific to directory and date of file
+2. unclear use of spike time extraction code - was using FileExchange I didn't fully understand input/output - will try using findpeaks (in matlab) and thresholds to verify 
+3. suggested interim visualization to clarify the relationship between time points and cluster identity
+
+Planned updates:
